@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19.0-orange?logo=tensorflow&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 A deep learning project for potato disease classification using Convolutional Neural Networks (CNN). This project classifies potato leaf images into three categories: **Early Blight**, **Late Blight**, and **Healthy**.
@@ -227,10 +226,6 @@ The dataset contains three classes:
 - **PlantVillage Dataset**: For providing the comprehensive potato disease dataset
 - **TensorFlow/Keras Team**: For excellent deep learning framework
 - **CodeBasics**: Tutorial guidance on project structure
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Contact
 
